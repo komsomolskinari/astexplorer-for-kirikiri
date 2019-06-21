@@ -1,0 +1,15 @@
+[cmd param]
+
+
+
+*tag|comment;more
+;aaa
+   
+e
+@atcmd
+
+
+
+cmd2
+   【呃呃呃/啊啊啊】哦哦哦
+   [cmd]         [cmd]

@@ -33,7 +33,7 @@ export default function Toolbar(props) {
 
   return (
     <div id="Toolbar">
-      <h1>AST Explorer</h1>
+      <h1>AST Explorer with Kirikiri</h1>
       <SnippetButton {...props} />
       <CategoryButton {...props} />
       <ParserButton {...props} />

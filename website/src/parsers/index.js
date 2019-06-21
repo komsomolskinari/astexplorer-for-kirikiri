@@ -57,7 +57,7 @@ export const categories =
   });
 
 export function getDefaultCategory() {
-  return categoryByID.javascript;
+  return categoryByID.ks;
 }
 
 export function getDefaultParser(category = getDefaultCategory()) {
