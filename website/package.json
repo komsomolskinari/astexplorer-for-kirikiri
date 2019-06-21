@@ -1,11 +1,11 @@
 {
-  "name": "astexplorer",
-  "version": "2.0.0",
+  "name": "astexplorer-for-kirikiri",
+  "version": "2.0.1",
   "description": "Online demo of various parsers",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/fkling/esprima_ast_explorer.git"
+    "url": "https://github.com/komsomolskinari/astexplorer-for-kirikiri"
   },
   "author": "Felix Kling",
   "devDependencies": {
